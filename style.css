@@ -1,0 +1,9 @@
+
+html {
+  background: url(animation.gif) no-repeat; /* Задаём фон GIF-картинкой */
+  background-color: black;
+  height: 100%; /* 100% высота страницы */
+  margin: 0px 200px;
+  
+
+}
